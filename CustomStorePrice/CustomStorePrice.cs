@@ -11,7 +11,7 @@ namespace CustomStorePrice
     {
         public const string GUID = "com.zhaiyiming.github.tinymins.CustomStorePrice";
         public const string NAME = "CustomStorePrice";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.1";
 
         internal static ManualLogSource Log;
         internal static ConfigEntry<string> StoreItemPrices;
