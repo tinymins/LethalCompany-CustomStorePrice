@@ -10,6 +10,6 @@ Price configuration should be in the format \"name:price\", separated by commas.
 ## Installation
 
 - Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
-- Unzip this mod into your `Lethal Company/BepInEx` folder
+- Unzip this mod into your `Lethal Company/BepInEx/plugins/CustomStorePrice` folder
 
 Or use the thunderstore mod manager to handle the installing for you.
